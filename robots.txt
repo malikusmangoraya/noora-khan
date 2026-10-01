@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noora-khan.com/sitemap.xml
